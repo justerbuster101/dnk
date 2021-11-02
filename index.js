@@ -4,6 +4,6 @@ const commands = require('fs').readdirSync(__dirname)
 
 module.exports = {
   commands,
-  name: '🆗 Text',
-  description: 'MaNiPuLaTe TeXt HaHa YeS'
+  name: '😂 Memey',
+  description: 'This is a meme bot, here are your memes. Memes reign supreme.'
 };
